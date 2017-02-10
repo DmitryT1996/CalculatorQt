@@ -70,5 +70,5 @@ void MainWindow::on_pushButton_C_clicked()
 
 void MainWindow::on_pushButton_10_clicked()
 {
-    ui->lineEdit->setText(ui->lineEdit->text()+"0");
+    ui->lineEdit->setText(ui->lineEdit->text()+".");
 }
