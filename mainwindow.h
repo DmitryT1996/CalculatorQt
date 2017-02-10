@@ -40,6 +40,18 @@ private slots:
 
     void on_pushButton_10_clicked();
 
+    void on_pushButton_plus_clicked();
+
+    void on_pushButton_minus_clicked();
+
+    void on_pushButton_umn_clicked();
+
+    void on_pushButton_delenie_clicked();
+
+    void on_pushButton_rez_clicked();
+
+    void on_pushButton_12_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
