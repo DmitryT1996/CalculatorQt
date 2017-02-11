@@ -118,7 +118,3 @@ void MainWindow::on_pushButton_rez_clicked()
         ui->lineEdit->setText(QString::number(a/b));
     plus = minus = mult = delen = false;
 }
-void MainWindow::on_pushButton_12_clicked()
-{
-    int i = ui->lineEdit->text().length();
-}
